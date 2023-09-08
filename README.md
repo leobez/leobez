@@ -1,4 +1,4 @@
-### Olá, me chamo Leonardo !!!
+### Olá, me chamo Leonardo !!
 
 <a href="">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobez&theme=tokyonight&layout=compact" />
