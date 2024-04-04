@@ -1,20 +1,28 @@
-### Olá, me chamo Leonardo !!
+<p align="left"> 
+  Hi, my name is Leo, i develop mostly in <strong> JavaScript </strong>
+</p>
 
-<a href="">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobez&theme=tokyonight&layout=compact" />
-</a>
+<hr>
 
-<a href="">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=leobez&theme=tokyonight" />
-</a>
+## Tech Stack (and tools)
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-DD0031?style=flat-square&logo=react)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="leobez-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="leobez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="leobez-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="leobez-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="leobez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="leobez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="leobez-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<hr>
+
+<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobez&theme=tokyonight&layout=compact" align="left"/>
+<img height="230" src="https://github-readme-stats.vercel.app/api?username=leobez&theme=tokyonight" align="right"/>
+
