@@ -23,7 +23,6 @@
 
 <hr>
 
-<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobez&theme=tokyonight&layout=compact" align="left"/>
-<p height="10"></p>
-<img height="230" src="https://github-readme-stats.vercel.app/api?username=leobez&theme=tokyonight" align="left"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobez&theme=tokyonight&layout=compact" align="left"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=leobez&theme=tokyonight" align="right"/>
 
