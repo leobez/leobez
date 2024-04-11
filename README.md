@@ -8,6 +8,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-7b5be3?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-7b5be3?style=flat-square&logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-7b5be3?style=flat-square&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-7b5be3?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-7b5be3?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-7b5be3?style=flat-square&logo=react)
