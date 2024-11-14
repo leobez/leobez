@@ -17,7 +17,6 @@
 ![Express](https://img.shields.io/badge/-Express-3934c2?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3934c2?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-3934c2?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-3934c2?style=flat-square&logo=sequelize&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-1f18cc?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1f18cc?style=flat-square&logo=github)
