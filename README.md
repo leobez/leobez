@@ -6,20 +6,16 @@
 
 ## Tech Stack (and tools)
 
-![HTML5](https://img.shields.io/badge/-HTML5-7b5be3?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-7b5be3?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-7b5be3?style=flat-square&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-7b5be3?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-7b5be3?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-7b5be3?style=flat-square&logo=react)
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3934c2?style=flat-square&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-3934c2?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-3934c2?style=flat-square&logo=mysql&logoColor=white)
+![NestJS](https://img.shields.io/badge/-Nestjs-3934c2?style=flat-square&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-3934c2?style=flat-square&logo=postgres&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-3934c2?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-3934c2?style=flat-square&logo=docker&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-1f18cc?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-1f18cc?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-1f18cc?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-3934c2?style=flat-square&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-3934c2?style=flat-square&logo=React&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-3934c2?style=flat-square&logo=Tailwindcss&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3934c2?style=flat-square&logo=Typescript&logoColor=white)
 
 <hr>
 
